@@ -4,7 +4,7 @@ Grup de treball amb Diego Alvarez Tome
 
 
 
-PRÀCTICA 1  
+PRÀCTICA 1  (https://github.com/PereVillaronga/Practica-1/tree/main)
 
 
 
